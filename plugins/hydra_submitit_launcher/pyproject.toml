@@ -1,6 +1,6 @@
 [tool.towncrier]
     package = "hydra"
-    package_dir = ""
+    package_dir = "class="fb-xfbml-parse-ignor"
     filename = "NEWS.md"
     directory = "news/"
     title_format = "{version} ({project_date})"
